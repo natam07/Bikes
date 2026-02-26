@@ -1,0 +1,43 @@
+.sideBar{ 
+    position: fixed;
+    width: 5%;
+    min-height: 100vh;
+    padding: 30px;
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    transition: 1s;
+    z-index: 2000;
+}
+
+.menu{
+    font-size: 1.6rem;
+    color: var(--bgColor);
+    transition: 1s;
+}
+
+.menu.active{
+    transform: rotateZ(180deg);
+    transition: 1s;
+}
+
+.social{
+    padding: 0;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.social li{
+    list-style: none;
+}
+
+.social li a{
+    color: var(--bgColor);
+    font-size: 1.6rem;
+    text-decoration: none;
+}
