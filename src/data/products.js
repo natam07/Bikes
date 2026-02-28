@@ -1,3 +1,12 @@
+import gixxerImg from '@/assets/Gixxer.png'
+import hunkImg from '@/assets/hunk125r.png'
+import R15Img from '@/assets/r15.jpg'
+import CB190RImg from '@/assets/CBR190.png'
+import vistroImg from '@/assets/Vistro.png'
+import xpulseImg from '@/assets/xpulse2004v.png'
+import xtzImg from '@/assets/xtz250.png'
+import xrImg from '@/assets/xr15l.png'
+
 /*Those are the datas of the products in an array.*/
 export const productsdata = [
     {
@@ -18,7 +27,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: 'src/assets/GIXXER SF 250.png',
+        image: gixxerImg,
         active: true
     },
     {
@@ -44,7 +53,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: 'src/assets/hunk125R-Red.png',
+        image: hunkImg,
         active: true
     },
     {
@@ -65,7 +74,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: 'src/assets/R15_colorAzul_650x600.jpg',
+        image: R15Img,
         active: true
     },
     {
@@ -86,7 +95,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: 'src/assets/Colores_CB190R_ROJA.png',
+        image: CB190RImg,
         active: true
     },
     {
@@ -112,7 +121,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: 'src/assets/01-suzuki-v-strom-250-2017.png',
+        image: vistroImg,
         active: true
     },
     {
@@ -133,7 +142,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: 'src/assets/xpulse2004vBlanco.png',
+        image: xpulseImg,
         active: true
     },
     {
@@ -159,7 +168,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: 'src/assets/XTZ250_color_blanca.png',
+        image: xtzImg,
         active: true
     },
     {
@@ -185,7 +194,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: 'src/assets/honda-xr150l-2025-2-2 (1).png',
+        image: xrImg,
         active: true
     },
 ]
