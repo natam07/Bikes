@@ -14,7 +14,3 @@ import CartBtn from '/src/components/CartBtn.vue';
 import Nav from './Nav.vue';
 
 </script>
-
-<style scoped>
-
-</style>

@@ -18,7 +18,7 @@ const navs = ref(navsdata);
 In this case, it just change the color because I only use one page.*/
 const handleActive = (id) => {
     navs.value.map(nav => {
-        nav.active = false;
+        nav.active = false; 
         if(nav.id === id) {
             nav.active = true;
             return nav;
