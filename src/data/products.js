@@ -18,7 +18,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: './src/assets/GIXXER SF 250.png',
+        image: 'src/assets/GIXXER SF 250.png',
         active: true
     },
     {
@@ -44,7 +44,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: './src/assets/hunk125R-Red.png',
+        image: 'src/assets/hunk125R-Red.png',
         active: true
     },
     {
@@ -65,7 +65,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: './src/assets/R15_colorAzul_650x600.jpg',
+        image: 'src/assets/R15_colorAzul_650x600.jpg',
         active: true
     },
     {
@@ -86,7 +86,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: './src/assets/Colores_CB190R_ROJA.png',
+        image: 'src/assets/Colores_CB190R_ROJA.png',
         active: true
     },
     {
@@ -112,7 +112,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: './src/assets/01-suzuki-v-strom-250-2017.png',
+        image: 'src/assets/01-suzuki-v-strom-250-2017.png',
         active: true
     },
     {
@@ -133,7 +133,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: './src/assets/xpulse2004vBlanco.png',
+        image: 'src/assets/xpulse2004vBlanco.png',
         active: true
     },
     {
@@ -159,7 +159,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#001aff',
-        image: './src/assets/XTZ250_color_blanca.png',
+        image: 'src/assets/XTZ250_color_blanca.png',
         active: true
     },
     {
@@ -185,7 +185,7 @@ export const productsdata = [
         ],
         color: '#ff7979',
         bgColor: '#ff0004',
-        image: './src/assets/honda-xr150l-2025-2-2 (1).png',
+        image: 'src/assets/honda-xr150l-2025-2-2 (1).png',
         active: true
     },
 ]
